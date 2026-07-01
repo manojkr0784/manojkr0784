@@ -28,7 +28,7 @@
 - 💡 Passionate about **building intelligent, autonomous applications using LLMs**
 - 💻 Check out my work on **[GitHub](https://github.com/manojkr0784)**
 - 📫 Reach me at **manoj.kr0784@gmail.com**
-- 📞 Contact: **phone-number**
+<!--- 📞 Contact: **phone-number**-->
 
 ---
 
