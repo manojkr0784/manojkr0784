@@ -57,15 +57,15 @@
 
 ## 📈 GitHub Activity
 
-[![Manoj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manoj&theme=tokyo-night)](https://github.com/manoj)
+[![Manoj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manoj&theme=tokyo-night)](https://github.com/manojkr0784)
 
-[![Manoj's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manoj&theme=tokyonight)](https://github.com/manoj)
+<!-- [![Manoj's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkr0784&theme=tokyonight)](https://github.com/manojkr0784)-->
 
 ---
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/your-linkedin-username/)
-[![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/manoj)
+[![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/manojkr0784)
 
 ⚡ I enjoy transforming complex problems into intelligent, AI-powered solutions.
