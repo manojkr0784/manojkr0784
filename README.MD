@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=manojkr0784&label=Profile%20views&color=0e75b6&style=flat)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=manojkr0784&label=Profile%20views&color=0e75b6&style=flat)-->
 ![AI Developer](https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
@@ -37,15 +37,15 @@
 | Project / Script | Description | Tech Stack |
 | --- | --- | --- |
 | **[RAG Document Analyzer](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/RAG_HR_POLICY.ipynb)**| An implementation of Retrieval-Augmented Generation (RAG) to parse, index, and query complex documents with high semantic precision. | `Python`, `RAG`, `Vector Search`, `LLMs` |
-| **Interactive AI Chatbot** | A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management. | `Python`, `OpenAI`, `Gemini`, `Agentic AI` |
-| **LangChain & Gemini Integration** | Advanced LLM orchestration and multi-turn conversational patterns using LangChain and Google's Gemini models. | `Python`, `LangChain`, `Gemini API` |
-| **Document Analyzer App** | A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models. | `Python`, `Generative AI`, `File Parsing` |
-| **Gemini Prompt Engineering** | Complete framework focused on optimizing, structuring, and benchmarking complex prompt templates using the Google Gemini API. | `Python`, `Gemini`, `Prompt Engineering` |
-| **AI Image Generator** | Jupyter notebook exploring multimodal generative AI pipelines for prompt-based creative asset synthesis. | `Python`, `Generative AI`, `Multimodal` |
-| **Automated EDA Pipeline** | An automation tool designed to execute Exploratory Data Analysis pipelines, minimizing manual data profiling and producing quick statistical profiles. | `Python`, `Pandas`, `Automation` |
-| **Gradio Data Dashboard** | An interactive analytical dashboard combining complex Matplotlib visualizations with a clean, web-accessible Gradio interface. | `Python`, `Gradio`, `Matplotlib` |
-| **NLP Foundations: Embeddings** | Hands-on deep dive into core NLP concepts including text vectorization, similarity metrics, and semantic search vector fields. | `Jupyter`, `NLP`, `Embeddings` |
-| **LLM Tokenizer Exploration** | Technical breakdown of how Large Language Models chunk, encode, and read text raw sequences under the hood. | `Jupyter`, `NLP`, `Tokenization` |
+| **[Interactive AI Chatbot](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/CustomChatbot_Langchain_Streamlit_Gemini)** | A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management. | `Python`, `OpenAI`, `Gemini`, `Agentic AI` |
+| **[LangChain & Gemini Integration](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/langchain_gemini.ipynb)** | Advanced LLM orchestration and multi-turn conversational patterns using LangChain and Google's Gemini models. | `Python`, `LangChain`, `Gemini API` |
+| **[Document Analyzer App](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/doc_analyzer_app.py)** | A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models. | `Python`, `Generative AI`, `File Parsing` |
+| **[Gemini Prompt Engineering](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/prompt_engineering_gemini.py)** | Complete framework focused on optimizing, structuring, and benchmarking complex prompt templates using the Google Gemini API. | `Python`, `Gemini`, `Prompt Engineering` |
+| **[AI Image Generator Using Stable Diffusion](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/Stable_diffusion.ipynb)** | Jupyter notebook exploring multimodal generative AI pipelines for prompt-based creative asset synthesis. | `Python`, `Generative AI`, `Multimodal` |
+| **[Automated EDA Pipeline](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/EDA_LLM/eda_automation.py)** | An automation tool designed to execute Exploratory Data Analysis pipelines, minimizing manual data profiling and producing quick statistical profiles. | `Python`, `Pandas`, `Automation` |
+| **[Gradio Data Dashboard](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/EDA_LLM/matplotlib_gradio.ipynb)** | An interactive analytical dashboard combining complex Matplotlib visualizations with a clean, web-accessible Gradio interface. | `Python`, `Gradio`, `Matplotlib` |
+| **[NLP Foundations: Embeddings](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/embedding.ipynb)** | Hands-on deep dive into core NLP concepts including text vectorization, similarity metrics, and semantic search vector fields. | `Jupyter`, `NLP`, `Embeddings` |
+| **[LLM Tokenizer Exploration](https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/tokenizer.ipynb)** | Technical breakdown of how Large Language Models chunk, encode, and read text raw sequences under the hood. | `Jupyter`, `NLP`, `Tokenization` |
 
 ---
 
