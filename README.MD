@@ -36,7 +36,7 @@
 
 | Project / Script | Description | Tech Stack |
 | --- | --- | --- |
-| **RAG Document Analyzer** | An implementation of Retrieval-Augmented Generation (RAG) to parse, index, and query complex documents with high semantic precision. | `Python`, `RAG`, `Vector Search`, `LLMs` |
+| **RAG Document Analyzer** (https://github.com/manojkr0784/Generative-AI-Agentic-AI-Internship/blob/main/Generative_Ai/RAG_HR_POLICY.ipynb)**| An implementation of Retrieval-Augmented Generation (RAG) to parse, index, and query complex documents with high semantic precision. | `Python`, `RAG`, `Vector Search`, `LLMs` |
 | **Interactive AI Chatbot** | A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management. | `Python`, `OpenAI`, `Gemini`, `Agentic AI` |
 | **LangChain & Gemini Integration** | Advanced LLM orchestration and multi-turn conversational patterns using LangChain and Google's Gemini models. | `Python`, `LangChain`, `Gemini API` |
 | **Document Analyzer App** | A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models. | `Python`, `Generative AI`, `File Parsing` |
