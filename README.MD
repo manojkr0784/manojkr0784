@@ -26,9 +26,9 @@
 
 - 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
 - 💡 Passionate about **building intelligent, autonomous applications using LLMs**
-- 💻 Check out my work on **[GitHub](https://github.com/manoj)**
-- 📫 Reach me at **your-email@gmail.com**
-- 📞 Contact: **your-phone-number**
+- 💻 Check out my work on **[GitHub](https://github.com/manojkr0784)**
+- 📫 Reach me at **manoj.kr0784@gmail.com**
+- 📞 Contact: **phone-number**
 
 ---
 
