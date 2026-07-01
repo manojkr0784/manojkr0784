@@ -1,10 +1,10 @@
 # Hi 👋, I'm Manoj
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Developer;Generative+AI+Specialist;Prompt+Engineer;Agentic+AI+Builder&width=500&height=45)](https://github.com/manoj)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Developer;Generative+AI+Specialist;Prompt+Engineer;Agentic+AI+Builder&width=500&height=45)](https://github.com/manojkr0784)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=manoj&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=manojkr0784&label=Profile%20views&color=0e75b6&style=flat)
 ![AI Developer](https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-[![coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)](https://github.com/manoj)
+[![coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)](https://github.com/manojkr0784)
 
 - 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
 - 💡 Passionate about **building intelligent, autonomous applications using LLMs**
@@ -57,15 +57,15 @@
 
 ## 📈 GitHub Activity
 
-[![Manoj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manoj&theme=tokyo-night)](https://github.com/manojkr0784)
+[![Manoj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojkr0784&theme=tokyo-night)](https://github.com/manojkr0784)
 
-<!-- [![Manoj's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkr0784&theme=tokyonight)](https://github.com/manojkr0784)-->
+[![Manoj's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkr0784&theme=tokyonight)](https://github.com/manojkr0784)
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/your-linkedin-username/)
+<!--[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/your-linkedin-username/)-->
 [![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/manojkr0784)
 
 ⚡ I enjoy transforming complex problems into intelligent, AI-powered solutions.
