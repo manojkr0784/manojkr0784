@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-[![coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)](https://github.com/manojkr0784)
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
 - 💡 Passionate about **building intelligent, autonomous applications using LLMs**
