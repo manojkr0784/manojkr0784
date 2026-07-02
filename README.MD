@@ -29,8 +29,8 @@
 - 🌱 Exploring **real-world AI systems and problem-solving approaches**
 - 💻 Enjoy creating **end-to-end scalable projects**
 - 🎯 Focused on developing **practical and impactful solutions**
-<!--- 💻 Check out my work on **[GitHub](https://github.com/manojkr0784)**-->
 - 📫 Reach me at **manoj.kr0784@gmail.com**
+<!--- 💻 Check out my work on **[GitHub](https://github.com/manojkr0784)**-->
 <!--- 📞 Contact: **phone-number**-->
 
 ---
