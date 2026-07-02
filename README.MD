@@ -25,8 +25,7 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
-- 💡 Passionate about **building intelligent, autonomous applications using LLMs**
-<!--- 🧠 Skilled in **Machine Learning, Deep Learning & Neural Networks**
+- 💡 Passionate about **building intelligent, autonomous applications using LLMs**<!--- 🧠 Skilled in **Machine Learning, Deep Learning & Neural Networks**
 - 📊 Strong in **Data Analysis & Predictive Modeling**-->
 - 🌱 Exploring **real-world AI systems and problem-solving approaches**
 - 💻 Enjoy creating **end-to-end scalable projects**
