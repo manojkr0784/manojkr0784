@@ -26,7 +26,12 @@
 
 - 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
 - 💡 Passionate about **building intelligent, autonomous applications using LLMs**
-- 💻 Check out my work on **[GitHub](https://github.com/manojkr0784)**
+<!--- 🧠 Skilled in **Machine Learning, Deep Learning & Neural Networks**
+- 📊 Strong in **Data Analysis & Predictive Modeling**-->
+- 🌱 Exploring **real-world AI systems and problem-solving approaches**
+- 💻 Enjoy creating **end-to-end scalable projects**
+- 🎯 Focused on developing **practical and impactful solutions**
+<!--- 💻 Check out my work on **[GitHub](https://github.com/manojkr0784)**-->
 - 📫 Reach me at **manoj.kr0784@gmail.com**
 <!--- 📞 Contact: **phone-number**-->
 
