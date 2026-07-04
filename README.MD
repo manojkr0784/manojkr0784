@@ -5,7 +5,6 @@
 ---
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=manojkr0784&label=Profile%20views&color=0e75b6&style=flat)-->
-<p align="center">
 ![AI Developer](https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
@@ -18,7 +17,7 @@
 ![MCP](https://img.shields.io/badge/MCP-102230?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-FF4500?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-008080?style=flat)
-</p>
+
 ---
 
 ## 🚀 About Me
