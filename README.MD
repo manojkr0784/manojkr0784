@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Developer;Generative+AI+Specialist;Prompt+Engineer;Agentic+AI+Builder&width=500&height=45">
 </h3>
 
----
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
