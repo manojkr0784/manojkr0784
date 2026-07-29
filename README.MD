@@ -5,7 +5,7 @@
 ---
 <!--![Profile Views](https://komarev.com/ghpvc/?username=manojkr0784&label=Profile%20views&color=0e75b6&style=flat)-->
 <p align="center">
-![AI Developer](https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+[AI Developer](https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=flat&logo=openai&logoColor=white)
