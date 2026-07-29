@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Manoj </h1>
+<h1 align="center">Hi 👋, I'm Manoj </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Developer;Generative+AI+Specialist;Prompt+Engineer;Agentic+AI+Builder&width=500&height=45">
