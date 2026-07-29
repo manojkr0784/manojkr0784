@@ -1,21 +1,24 @@
 # <h1 align="center">Hi 👋, I'm Manoj </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Developer;Generative+AI+Specialist;Prompt+Engineer;Agentic+AI+Builder&width=500&height=45)](https://github.com/manojkr0784)
+<h3 align="center">
+AI Developer • Generative AI • Agentic AI • Python
+</h3>
 
 ---
-<!--![Profile Views](https://komarev.com/ghpvc/?username=manojkr0784&label=Profile%20views&color=0e75b6&style=flat)-->
-![AI Developer](https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=flat&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF1493?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0A66C2?style=flat)
-![MCP](https://img.shields.io/badge/MCP-102230?style=flat)
-![RAG](https://img.shields.io/badge/RAG-FF4500?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-008080?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-FF1493?style=flat" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=flat" />
+  <img src="https://img.shields.io/badge/MCP-102230?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-FF4500?style=flat" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-008080?style=flat" />
+</p>
 
 ---
 
